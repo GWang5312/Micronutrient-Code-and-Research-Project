@@ -2,7 +2,7 @@
 An analysis between the micronutrient density of plant/animal based foods using Python
 
 # Project Overview
-This is an independent high school research project crossing over my passions of data science and health/nutrition. While exploring nutriiton, I've seen many debates and comparisons on whether plant or animal foods are superior, and one of the main topics always mentioned is micronutrient density. Combined with my belief that micronutrients are severely underemphasized in the modern nutrition space, I set out to explore whether one side was truly favored in this debate. This research project compares how micronutrient dense both categories are using both 100g and 100cal to account for different contexts of people.
+This is an independent high school research project combining my passions of data science and health/nutrition. While exploring nutrition, I've seen many debates and comparisons on whether plant or animal foods are superior, and one of the main topics always mentioned is micronutrient density. Combined with my belief that micronutrients are severely underemphasized in the modern nutrition space, I set out to explore whether one side was truly favored in this debate. This research project compares how micronutrient dense both categories are using both 100g and 100cal to account for different contexts of people.
 
 # Methodology
 - 40 foods were selected from both plant and animals
