@@ -8,7 +8,8 @@ This is an independent high school research project crossing over my passions of
 - 40 foods were selected from both plant and animals\
 - 22 micronutrients were analyzed\
 - Extracted data from USDA FoodData Central's SR Legacy\
-- Compared with DV Score, measuring how much a food contributed to a person's daily micronutrient requirements\
+- Compared with DV Score, measuring how much a food contributed to a person's daily micronutrient requirements
+
 NOTE: This project was primarily intended to be a data science and programing project to show my skills in analyzing datasets with Python and Matplotlib. Therefore, some of the methodology definitely took some shortcuts that shifted the emphasis of the project towards data processing and analysis, which could be refined if this were to be done again.
 
 # Files
